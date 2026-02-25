@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Khadija Tahir",
+    "role": "Full Stack Developer",
+    "description": "Passionate full-stack engineer crafting web apps with React.js, Next.js, and powerful backends using Strapi and Firebase. Loves building scalable digital products.",
+    "image": "/img.jpg",
+    "slug": "khadija-tahir",
+        "skills": [
+      { "name": "React.js", "level": 100, "category": "Frontend", "icon": "⚛️" },
+      { "name": "Next.js", "level": 100, "category": "Frontend", "icon": "▲" },
+      { "name": "Flutter", "level": 100, "category": "Frontend", "icon": "🦋" },
+      { "name": "JavaScript", "level": 100, "category": "Frontend", "icon": "💛" },
+      { "name": "TypeScript", "level": 100, "category": "Frontend", "icon": "🔷" },
+      { "name": "Tailwind CSS", "level": 100, "category": "Frontend", "icon": "🎨" },
+      { "name": "Material UI", "level": 100, "category": "Frontend", "icon": "🧩" },
+      { "name": "Framer Motion", "level": 100, "category": "Frontend", "icon": "✨" },
+      { "name": "Strapi", "level": 100, "category": "Backend", "icon": "🔧" },
+      { "name": "Git", "level": 100, "category": "Tools", "icon": "📝" },
+      { "name": "GitHub", "level": 100, "category": "Tools", "icon": "🐙" },
+      { "name": "Cursor AI", "level": 100, "category": "Tools", "icon": "🤖" },
+      { "name": "figma", "level": 100, "category": "Tools", "icon": "💻" },
+      { "name": "canva", "level": 100, "category": "Management", "icon": "📈" },
+      { "name": "UI/UX Design", "level": 100, "category": "Design", "icon": "🎯" },
+      { "name": "Responsive Design", "level": 100, "category": "Design", "icon": "📱" }
+    
+    ],
+    "services": [
+      { "name": "MERN Stack Development", "description": "Full-stack web applications using MongoDB, Express.js, React.js, and Node.js", "icon": "🔄" },
+      { "name": "Frontend Development", "description": "Modern, responsive user interfaces with React.js, Next.js, and modern CSS frameworks", "icon": "💻" },
+      { "name": "Backend Development", "description": "Robust server-side applications with Node.js, Express.js, and various databases", "icon": "⚙️" },
+      { "name": "Mobile App Development", "description": "Cross-platform mobile applications using Flutter and React Native", "icon": "📱" },
+      { "name": "API Development", "description": "RESTful APIs and microservices with authentication and payment integration", "icon": "🔗" },
+      { "name": "Database Design", "description": "Database architecture and optimization for SQL and NoSQL databases", "icon": "🗄️" }
+    ],
+    "contact": {
+      "email": "Kheejch7@gmail.com",
+      "phone": "03000000000",
+      "location": "Lahore, Punjab, Pakistan",
+      "github": "https://github.com/Kheejch?tab=repositories"
+    },
+    "projects": [
+      {
+        "title": "NY212 (clone)",
+        "slug": "ny212-clone",
+        "image": "/ny212.png",
+        "shortDescription": "High-performance, fully responsive e-commerce site inspired by NY212. Built with Next.js, Strapi, and Vercel.",
+        "description": "Developed a high-performance, fully responsive e-commerce site inspired by NY212 using Next.js (App Router) and Strapi as the headless CMS. Focused on performance and SEO by pre-rendering dynamic content at build time using generateStaticParams and generateMetadata, achieving 100/100 Lighthouse scores. Deployed on Vercel for global scalability and edge-speed delivery. This project showcases my skills in full-stack development, API integration, and performance-first architecture. Associated with COMSATS University Islamabad, Lahore Campus.",
+        "skills": [
+          { "name": "Next.js", "icon": "▲" },
+          { "name": "Strapi", "icon": "🔧" },
+          { "name": "REST API", "icon": "🔗" },
+          { "name": "Vercel", "icon": "▲" },
+          { "name": "SEO", "icon": "🔍" }
+        ],
+        "links": {
+          "live": "https://112-jet.vercel.app/",
+          "code": "#"
+        },
+        "date": "Mar 2025 - May 2025",
+        "organization": "COMSATS University Islamabad, Lahore Campus"
+      },
+      {
+        "title": "EmployEase (HRMS System)",
+        "slug": "employease-hrms",
+        "images": [
+          "/employeease.jpg",
+          "/employeease1.jpg",
+          "/employeease2.jpg"
+        ],
+        "shortDescription": "Centralized HRMS system for employee outsourcing, recruitment, payroll, and performance tracking.",
+        "description": "EmployEase is a centralized HRMS web application that connects companies with skilled outsourced employees. The platform includes a resume parsing system powered by AI, a ranking algorithm for job matching, attendance and payroll management, and performance tracking. Companies can register, post jobs, manage interviews, and track hired employee progress. Employees only need to upload their CVs, and the system automatically extracts their experience and ranks them accordingly. Developed as a Final Year Project at COMSATS University Islamabad, Lahore Campus.",
+        "skills": [
+          { "name": "React.js", "icon": "⚛️" },
+          { "name": "ASP.NET", "icon": "🧩" },
+          { "name": "Microsoft SQL Server", "icon": "🗃️" },
+          { "name": "Material UI", "icon": "🧩" },
+          { "name": "JWT", "icon": "🔐" },
+          { "name": "REST API", "icon": "🔗" }
+        ],
+        "links": {
+          "live": "https://employease1.netlify.app/",
+          "code": "#"
+        },
+        "date": "Feb 2024 - Jul 2024",
+        "organization": "COMSATS University Islamabad, Lahore Campus"
+      },
+      {
+        "title": "Smart City AI-Powered Environmental Monitoring Platform",
+        "slug": "smart-city-environmental-monitoring",
+        "image": "/p7.jpg",
+        "shortDescription": "AI-powered full-stack platform for real-time weather analytics, AQI tracking, and predictive modeling.",
+        "description": "An enterprise-grade full-stack platform delivering real-time weather analytics, AQI tracking, predictive modeling, and intelligent alerts. Built with React.js, Node.js, Python (Flask), and MongoDB, it integrates advanced machine learning models for 24-hour forecasting, ApexCharts for dynamic visualizations, and JWT-secured authentication. Features live dashboards, heatmaps, automated email alerts, offline-ready data handling, and scalable microservices for smart cities, agriculture, and compliance systems. Designed for high availability, precision, and actionable environmental insights.",
+        "skills": [
+          { "name": "React.js", "icon": "⚛️" },
+          { "name": "Node.js", "icon": "🟢" },
+          { "name": "Python", "icon": "🐍" },
+          { "name": "Flask", "icon": "🍶" },
+          { "name": "Machine Learning", "icon": "🤖" },
+          { "name": "MongoDB", "icon": "🍃" },
+          { "name": "ApexCharts", "icon": "📊" },
+          { "name": "Data Visualization", "icon": "📈" },
+          { "name": "JWT Authentication", "icon": "🔑" },
+          { "name": "Microservices", "icon": "🧩" },
+          { "name": "Real-time Dashboards", "icon": "⏱️" },
+          { "name": "Heatmaps", "icon": "🌡️" },
+          { "name": "Offline Data Handling", "icon": "📦" },
+          { "name": "Automated Email Alerts", "icon": "📧" }
+        ],
+        "links": {
+          "live": "https://smartcity.example.com",
+          "code": "#"
+        },
+        "date": "Jan 2025 - Mar 2025",
+        "organization": "Client Project - Smart City Solutions Inc."
+      },
+      {
+        "title": "Lals - E-commerce Platform",
+        "slug": "lals-ecommerce",
+        "image": "/p3.jpg",
+        "shortDescription": "Modern e-commerce platform with advanced search, filtering, and payment integration.",
+        "description": "Full-featured e-commerce solution with product catalog, shopping cart, user authentication, payment processing, and admin dashboard. Built with Next.js and Strapi, featuring advanced search algorithms and responsive design.",
+        "skills": [
+          { "name": "Next.js", "icon": "▲" },
+          { "name": "Strapi", "icon": "🔧" },
+          { "name": "Stripe", "icon": "💳" },
+          { "name": "Tailwind CSS", "icon": "🎨" },
+          { "name": "Redux", "icon": "🔄" }
+        ],
+        "links": {
+          "live": "https://lals.sufyanliaqat.me/",
+          "code": "#"
+        },
+        "date": "Dec 2024 - Feb 2025",
+        "organization": "Client Project - Lals Fashion Retail"
+      },
+      {
+        "title": "AI Portfolio Creator",
+        "slug": "ai-portfolio-creator",
+        "image": "/p4.jpg",
+        "shortDescription": "AI-powered portfolio generator with customizable templates and content suggestions.",
+        "description": "An intelligent portfolio creation tool that uses AI to suggest layouts, content, and design elements based on user input. Features include template library, drag-and-drop editor, and AI-powered content optimization.",
+        "skills": [
+          { "name": "React.js", "icon": "⚛️" },
+          { "name": "OpenAI API", "icon": "🤖" },
+          { "name": "Firebase", "icon": "🔥" },
+          { "name": "Framer Motion", "icon": "✨" },
+          { "name": "TypeScript", "icon": "🔷" }
+        ],
+        "links": {
+          "live": "https://online-identity.tech/",
+          "code": "#"
+        },
+        "date": "Nov 2024 - Jan 2025",
+        "organization": "Freelance Project - Creative Agency"
+      },
+      {
+        "title": "Modern Beverage App",
+        "slug": "modern-beverage-app",
+        "image": "/p5.jpg",
+        "shortDescription": "Mobile-first beverage ordering app with real-time tracking and payment integration.",
+        "description": "A modern beverage ordering application featuring menu browsing, custom drink builder, real-time order tracking, and seamless payment processing. Built with React Native and Firebase for cross-platform compatibility.",
+        "skills": [
+          { "name": "React Native", "icon": "📱" },
+          { "name": "Firebase", "icon": "🔥" },
+          { "name": "Redux", "icon": "🔄" },
+          { "name": "Stripe", "icon": "💳" },
+          { "name": "Push Notifications", "icon": "🔔" }
+        ],
+        "links": {
+          "live": "#",
+          "code": "#"
+        },
+        "date": "Oct 2024 - Dec 2024",
+        "organization": "Client Project - Beverage Startup"
+      },
+      {
+        "title": "Hotel Finder Pro",
+        "slug": "hotel-finder-pro",
+        "image": "/p6.jpg",
+        "shortDescription": "Advanced hotel booking platform with AI-powered recommendations and virtual tours.",
+        "description": "Comprehensive hotel booking platform featuring AI-powered recommendations, virtual room tours, real-time availability, and integrated booking system. Built with Next.js and machine learning algorithms for personalized suggestions.",
+        "skills": [
+          { "name": "Next.js", "icon": "▲" },
+          { "name": "Python", "icon": "🐍" },
+          { "name": "TensorFlow", "icon": "🧠" },
+          { "name": "PostgreSQL", "icon": "🐘" },
+          { "name": "Three.js", "icon": "🎮" }
+        ],
+        "links": {
+          "live": "#",
+          "code": "#"
+        },
+        "date": "Sep 2024 - Nov 2024",
+        "organization": "Freelance Project - Travel Tech Company"
+      },
+      {
+        "title": "Food Delivery App",
+        "slug": "food-delivery-app",
+        "image": "/ny212.png",
+        "shortDescription": "Full-stack food delivery application with real-time tracking and restaurant management.",
+        "description": "Complete food delivery solution including customer app, restaurant dashboard, delivery tracking, and payment processing. Features real-time GPS tracking, push notifications, and comprehensive analytics for restaurants.",
+        "skills": [
+          { "name": "React.js", "icon": "⚛️" },
+          { "name": "Node.js", "icon": "🟢" },
+          { "name": "Socket.io", "icon": "🔌" },
+          { "name": "MongoDB", "icon": "🍃" },
+          { "name": "Google Maps API", "icon": "🗺️" }
+        ],
+        "links": {
+          "live": "#",
+          "code": "#"
+        },
+        "date": "Aug 2024 - Oct 2024",
+        "organization": "Client Project"
+      },
+      {
+        "title": "Blinkit UI - Premium E-Commerce App",
+        "slug": "blinkit-ui-premium-ecommerce",
+        "image": "/p8.png",
+        "shortDescription": "Enterprise-grade Flutter e-commerce app with clean architecture, advanced UI/UX, and real-time delivery tracking.",
+        "description": "Built a production-ready, enterprise-grade e-commerce mobile application inspired by Blinkit, India's leading instant delivery platform. Developed using Flutter with Clean Architecture and optimized state management, the app features OTP-based authentication, smart product search, dynamic category navigation, cart intelligence, personalized profiles, promotions, and real-time delivery tracking. Designed with Material Design 3.0, smooth animations, and cross-platform optimizations for iOS and Android, this project demonstrates scalable architecture, premium UI/UX, and business-driven functionality.",
+        "skills": [
+          { "name": "Flutter", "icon": "🟦" },
+          { "name": "Dart", "icon": "🎯" },
+          { "name": "Clean Architecture", "icon": "🏗️" },
+          { "name": "State Management", "icon": "⚡" },
+          { "name": "UI/UX Design", "icon": "🎨" },
+          { "name": "Material Design 3.0", "icon": "📱" },
+          { "name": "Responsive Design", "icon": "📐" },
+          { "name": "Real-Time Tracking", "icon": "📍" },
+          { "name": "Authentication", "icon": "🔑" },
+          { "name": "E-Commerce Features", "icon": "🛒" },
+          { "name": "Cross-Platform Development", "icon": "🔀" },
+          { "name": "Performance Optimization", "icon": "🚀" }
+        ],
+        "links": {
+          "live": "#",
+          "code": "#"
+        },
+        "date": "Jan 2025 - Mar 2025",
+        "organization": "Personal Project - Flutter Development"
+      }
+    ]
+  }
+]
